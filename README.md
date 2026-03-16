@@ -4,7 +4,7 @@
 
 - **Name:** Karl Andrei G. Castillo
 - **Workshop Cohort:** AI Agent Developer Bootcamp 2026
-- **Repository:** [ai-agent-dev-setup-kuraedev](https://github.com/Kuraedev/boiler-plate-nextjs)
+- **Repository:** [ai-agent-dev-setup-kuraedev](https://github.com/Kuraedev/ai-agent-dev-setup-kuraedev)
 
 ---
 
