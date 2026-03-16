@@ -10,31 +10,22 @@
 
 ## Development Environment Checklist
 
-### Node.js Installed
+### Node.js & Git Installed
 
-- **Version:** v24.13.1
-- **Screenshot:** *(Add screenshot of `node --version` terminal output here)*
+- **Node.js Version:** v24.13.1
+- **Git Version:** 2.53.0.windows.1
 
-![Node.js version](screenshots/node-version.png)
-
-### Git Installed
-
-- **Version:** 2.53.0.windows.1
-- **Screenshot:** *(Add screenshot of `git --version` terminal output here)*
-
-![Git version](screenshots/git-version.png)
+![Node.js and Git versions](screenshots/node-git-versions.png)
 
 ### VS Code Insiders with GitHub Copilot
 
 - **Status:** Installed and running
-- **Screenshot:** *(Add screenshot of VS Code Insiders with Copilot enabled)*
 
-![VS Code Insiders](screenshots/vscode-copilot.png)
+![VS Code Insiders with Copilot](screenshots/vscode-copilot.png)
 
 ### Claude Desktop with MCP Servers
 
-- **Status:** All 4 MCP servers connected
-- **Screenshot:** *(Add screenshot of Claude Desktop showing connected MCP servers)*
+- **Status:** 3 MCP servers connected (Rolldice, Calendar Booking, GitHub)
 
 ![Claude Desktop MCP](screenshots/claude-mcp-servers.png)
 
